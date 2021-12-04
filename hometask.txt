@@ -1,3 +1,13 @@
 Первые строки README веток master и demo соответсвтенно:
 Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+Все коммиты(кроме текущего):
+
+init
+README added
+fix readme
+heat added
+boots
+dots
+hometask.txt
